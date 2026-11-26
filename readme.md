@@ -75,6 +75,7 @@ Press a button, land on a site you have never seen. The spirit of StumbleUpon li
 - [Street View Fun](https://www.streetviewfun.com) - The strangest things map cars have caught on camera.
 - [Atlas Obscura](https://www.atlasobscura.com) - Curious places around the world, mapped and described.
 - [The True Size Of](https://thetruesize.com) - Drag countries across the map to see how map projections distort them.
+- [StagePeek](https://stagepeek.live) - Pick a section and seat inside 201 stadiums and concert arenas worldwide to preview the stage sightline in 2D and 3D; browsing is free, partly paid for Pro exports and saves.
 
 ## The planet and the sky, live
 
