@@ -2,6 +2,8 @@
 
 > Kleine Ecken des Webs, die einen müßigen Nachmittag wert sind: Spielzeug, Spiele, Kuriositäten, die Welt live und Lesestoff.
 
+**Empfohlen:** [Aubergine](https://github.com/thirstyeggplant/aubergine) - Alle deine Terminals auf einer Leinwand im Browser, um mehrere Coding-Agenten nebeneinander laufen zu lassen und zu sehen, welcher auf dich wartet. *(Wird von den Betreibern dieser Liste gepflegt.)*
+
 Alles hier läuft in einem normalen Browser, braucht zum Start kein Konto und kostet nichts. Die meisten Seiten stammen von einer Person oder einem kleinen Team; wenn dich eine begeistert, sag es ihnen.
 
 <!-- lang-bar -->
@@ -14,8 +16,6 @@ Alles hier läuft in einem normalen Browser, braucht zum Start kein Konto und ko
 
 <a id="contents"></a>
 ## Inhalt
-
-- [Empfohlen](#featured)
 - [Bring mich irgendwohin](#take-me-somewhere-random)
 - [Interaktives Spielzeug und Erklärstücke](#interactive-toys-and-explainers)
 - [Reisen vom Stuhl aus](#travel-from-your-chair)
@@ -30,11 +30,6 @@ Alles hier läuft in einem normalen Browser, braucht zum Start kein Konto und ko
 - [Das alte Web](#the-old-web)
 - [Kaninchenbauten zum Lesen](#rabbit-holes-to-read)
 - [Weitere Sammlungen](#more-collections)
-
-<a id="featured"></a>
-## Empfohlen
-
-- [Aubergine](https://github.com/thirstyeggplant/aubergine) - Alle deine Terminals auf einer Leinwand im Browser, um mehrere Coding-Agenten nebeneinander laufen zu lassen und zu sehen, welcher auf dich wartet. *(Wird von den Betreibern dieser Liste gepflegt.)*
 
 <a id="take-me-somewhere-random"></a>
 ## Bring mich irgendwohin

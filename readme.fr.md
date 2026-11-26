@@ -2,6 +2,8 @@
 
 > De petits coins du web qui valent un après-midi de flânerie : jouets, jeux, curiosités, le monde en direct et choses à lire.
 
+**À la une :** [Aubergine](https://github.com/thirstyeggplant/aubergine) - Tous vos terminaux sur un canevas dans le navigateur, pour lancer plusieurs agents de code côte à côte et voir lequel vous attend. *(Maintenu par les auteurs de cette liste.)*
+
 Tout fonctionne dans un navigateur ordinaire, sans compte pour commencer, et ne coûte rien à essayer. La plupart de ces sites sont faits par une personne ou une petite équipe ; si l’un d’eux vous charme, dites-le-leur.
 
 <!-- lang-bar -->
@@ -14,8 +16,6 @@ Tout fonctionne dans un navigateur ordinaire, sans compte pour commencer, et ne 
 
 <a id="contents"></a>
 ## Sommaire
-
-- [À la une](#featured)
 - [Emmène-moi n’importe où](#take-me-somewhere-random)
 - [Jouets interactifs et explications](#interactive-toys-and-explainers)
 - [Voyager depuis sa chaise](#travel-from-your-chair)
@@ -30,11 +30,6 @@ Tout fonctionne dans un navigateur ordinaire, sans compte pour commencer, et ne 
 - [Le web d’antan](#the-old-web)
 - [Terriers de lapin à lire](#rabbit-holes-to-read)
 - [Autres collections](#more-collections)
-
-<a id="featured"></a>
-## À la une
-
-- [Aubergine](https://github.com/thirstyeggplant/aubergine) - Tous vos terminaux sur un canevas dans le navigateur, pour lancer plusieurs agents de code côte à côte et voir lequel vous attend. *(Maintenu par les auteurs de cette liste.)*
 
 <a id="take-me-somewhere-random"></a>
 ## Emmène-moi n’importe où

@@ -2,6 +2,8 @@
 
 > Rincones pequeños de la web que merecen una tarde ociosa: juguetes, juegos, rarezas, vistas en directo del mundo y cosas para leer.
 
+**Destacado:** [Aubergine](https://github.com/thirstyeggplant/aubergine) - Todas tus terminales en un lienzo en el navegador, para ejecutar varios agentes de programación en paralelo y ver cuál te está esperando. *(Mantenido por los autores de esta lista.)*
+
 Todo funciona en un navegador normal, no pide cuenta para empezar y no cuesta nada probarlo. La mayoría de estos sitios los hace una persona o un equipo pequeño; si alguno te encanta, díselo.
 
 <!-- lang-bar -->
@@ -14,8 +16,6 @@ Todo funciona en un navegador normal, no pide cuenta para empezar y no cuesta na
 
 <a id="contents"></a>
 ## Contenido
-
-- [Destacado](#featured)
 - [Llévame a cualquier sitio](#take-me-somewhere-random)
 - [Juguetes interactivos y explicaciones](#interactive-toys-and-explainers)
 - [Viajar desde tu silla](#travel-from-your-chair)
@@ -30,11 +30,6 @@ Todo funciona en un navegador normal, no pide cuenta para empezar y no cuesta na
 - [La web de antes](#the-old-web)
 - [Madrigueras para leer](#rabbit-holes-to-read)
 - [Más colecciones](#more-collections)
-
-<a id="featured"></a>
-## Destacado
-
-- [Aubergine](https://github.com/thirstyeggplant/aubergine) - Todas tus terminales en un lienzo en el navegador, para ejecutar varios agentes de programación en paralelo y ver cuál te está esperando. *(Mantenido por los autores de esta lista.)*
 
 <a id="take-me-somewhere-random"></a>
 ## Llévame a cualquier sitio

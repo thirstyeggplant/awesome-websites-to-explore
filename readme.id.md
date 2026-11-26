@@ -2,6 +2,8 @@
 
 > Sudut-sudut kecil web yang layak untuk sore yang santai: mainan, game, keanehan, pemandangan dunia secara langsung, dan bacaan.
 
+**Unggulan:** [Aubergine](https://github.com/thirstyeggplant/aubergine) - Semua terminal Anda di satu kanvas di browser, untuk menjalankan beberapa agen coding berdampingan dan melihat mana yang sedang menunggu Anda. *(Dikelola oleh pemilik daftar ini.)*
+
 Semua di sini berjalan di browser biasa, tidak perlu akun untuk mulai, dan gratis dicoba. Sebagian besar situs ini dibuat oleh satu orang atau tim kecil; kalau ada yang memikat Anda, beri tahu mereka.
 
 <!-- lang-bar -->
@@ -14,8 +16,6 @@ Semua di sini berjalan di browser biasa, tidak perlu akun untuk mulai, dan grati
 
 <a id="contents"></a>
 ## Daftar isi
-
-- [Unggulan](#featured)
 - [Bawa aku ke mana saja](#take-me-somewhere-random)
 - [Mainan interaktif dan penjelasan](#interactive-toys-and-explainers)
 - [Jalan-jalan dari kursi](#travel-from-your-chair)
@@ -30,11 +30,6 @@ Semua di sini berjalan di browser biasa, tidak perlu akun untuk mulai, dan grati
 - [Web lawas](#the-old-web)
 - [Bacaan yang bikin tenggelam](#rabbit-holes-to-read)
 - [Koleksi lainnya](#more-collections)
-
-<a id="featured"></a>
-## Unggulan
-
-- [Aubergine](https://github.com/thirstyeggplant/aubergine) - Semua terminal Anda di satu kanvas di browser, untuk menjalankan beberapa agen coding berdampingan dan melihat mana yang sedang menunggu Anda. *(Dikelola oleh pemilik daftar ini.)*
 
 <a id="take-me-somewhere-random"></a>
 ## Bawa aku ke mana saja

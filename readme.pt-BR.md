@@ -2,6 +2,8 @@
 
 > Cantinhos da web que valem uma tarde à toa: brinquedos, jogos, esquisitices, o mundo ao vivo e coisas para ler.
 
+**Destaque:** [Aubergine](https://github.com/thirstyeggplant/aubergine) - Todos os seus terminais em uma tela no navegador, para rodar vários agentes de programação lado a lado e ver qual está esperando por você. *(Mantido pelos donos desta lista.)*
+
 Tudo aqui funciona em um navegador comum, não exige conta para começar e não custa nada experimentar. A maioria desses sites é feita por uma pessoa ou uma equipe pequena; se algum encantar você, conte para eles.
 
 <!-- lang-bar -->
@@ -14,8 +16,6 @@ Tudo aqui funciona em um navegador comum, não exige conta para começar e não 
 
 <a id="contents"></a>
 ## Conteúdo
-
-- [Destaque](#featured)
 - [Me leve para qualquer lugar](#take-me-somewhere-random)
 - [Brinquedos interativos e explicações](#interactive-toys-and-explainers)
 - [Viaje sem sair da cadeira](#travel-from-your-chair)
@@ -30,11 +30,6 @@ Tudo aqui funciona em um navegador comum, não exige conta para começar e não 
 - [A web antiga](#the-old-web)
 - [Tocas de coelho para ler](#rabbit-holes-to-read)
 - [Mais coleções](#more-collections)
-
-<a id="featured"></a>
-## Destaque
-
-- [Aubergine](https://github.com/thirstyeggplant/aubergine) - Todos os seus terminais em uma tela no navegador, para rodar vários agentes de programação lado a lado e ver qual está esperando por você. *(Mantido pelos donos desta lista.)*
 
 <a id="take-me-somewhere-random"></a>
 ## Me leve para qualquer lugar

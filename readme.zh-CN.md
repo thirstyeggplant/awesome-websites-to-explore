@@ -2,6 +2,8 @@
 
 > 值得消磨一个闲暇午后的网络小角落：玩具、游戏、奇趣网站、世界实况和读物。
 
+**推荐：** [Aubergine](https://github.com/thirstyeggplant/aubergine) - 在浏览器中把所有终端放在一块画布上，并排运行多个编程智能体，看看哪个在等你。*（由本列表的维护者开发。）*
+
 这里的一切都能在普通浏览器中使用，无需注册即可开始，试用不花一分钱。这些网站大多出自一个人或小团队之手；如果哪个让你着迷，不妨告诉他们。
 
 <!-- lang-bar -->
@@ -14,8 +16,6 @@
 
 <a id="contents"></a>
 ## 目录
-
-- [精选推荐](#featured)
 - [随便带我去个地方](#take-me-somewhere-random)
 - [互动玩具与图解](#interactive-toys-and-explainers)
 - [坐在椅子上去旅行](#travel-from-your-chair)
@@ -30,11 +30,6 @@
 - [旧时的网络](#the-old-web)
 - [读起来停不下来](#rabbit-holes-to-read)
 - [更多合集](#more-collections)
-
-<a id="featured"></a>
-## 精选推荐
-
-- [Aubergine](https://github.com/thirstyeggplant/aubergine) - 在浏览器中把所有终端放在一块画布上，并排运行多个编程智能体，看看哪个在等你。*（由本列表的维护者开发。）*
 
 <a id="take-me-somewhere-random"></a>
 ## 随便带我去个地方

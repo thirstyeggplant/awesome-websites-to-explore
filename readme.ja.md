@@ -2,6 +2,8 @@
 
 > のんびりした午後にぴったりの Web の小さな片隅：おもちゃ、ゲーム、珍品、世界のライブ映像、読みもの。
 
+**注目：** [Aubergine](https://github.com/thirstyeggplant/aubergine) - ブラウザの 1 枚のキャンバスにすべてのターミナルを置き、複数のコーディングエージェントを並べて動かし、どれがあなたを待っているかを確認できます。*（このリストの管理者が開発しています。）*
+
 どれも普通のブラウザで動き、アカウントなしで始められ、無料で試せます。ほとんどは個人や小さなチームが作ったサイトです。気に入ったら作者に伝えてあげてください。
 
 <!-- lang-bar -->
@@ -14,8 +16,6 @@
 
 <a id="contents"></a>
 ## 目次
-
-- [注目](#featured)
 - [どこかへ連れていって](#take-me-somewhere-random)
 - [インタラクティブなおもちゃと解説](#interactive-toys-and-explainers)
 - [椅子に座ったまま旅をする](#travel-from-your-chair)
@@ -30,11 +30,6 @@
 - [昔の Web](#the-old-web)
 - [読みふけるウサギの穴](#rabbit-holes-to-read)
 - [その他のコレクション](#more-collections)
-
-<a id="featured"></a>
-## 注目
-
-- [Aubergine](https://github.com/thirstyeggplant/aubergine) - ブラウザの 1 枚のキャンバスにすべてのターミナルを置き、複数のコーディングエージェントを並べて動かし、どれがあなたを待っているかを確認できます。*（このリストの管理者が開発しています。）*
 
 <a id="take-me-somewhere-random"></a>
 ## どこかへ連れていって

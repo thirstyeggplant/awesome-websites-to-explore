@@ -2,6 +2,8 @@
 
 > 한가로운 오후를 보내기 좋은 웹의 작은 구석들: 장난감, 게임, 기묘한 것들, 세계의 실시간 모습, 읽을거리.
 
+**추천:** [Aubergine](https://github.com/thirstyeggplant/aubergine) - 브라우저의 캔버스 하나에 모든 터미널을 모아 여러 코딩 에이전트를 나란히 실행하고 어떤 에이전트가 당신을 기다리는지 확인하세요. *(이 목록의 관리자가 만들었습니다.)*
+
 모두 일반 브라우저에서 작동하고, 계정 없이 시작할 수 있으며, 무료로 써 볼 수 있습니다. 대부분 한 사람이나 작은 팀이 만든 사이트이니, 마음에 들면 만든 사람에게 알려 주세요.
 
 <!-- lang-bar -->
@@ -14,8 +16,6 @@
 
 <a id="contents"></a>
 ## 목차
-
-- [추천](#featured)
 - [아무 데나 데려가 줘](#take-me-somewhere-random)
 - [인터랙티브 장난감과 해설](#interactive-toys-and-explainers)
 - [의자에 앉아 떠나는 여행](#travel-from-your-chair)
@@ -30,11 +30,6 @@
 - [옛날 웹](#the-old-web)
 - [빠져드는 읽을거리](#rabbit-holes-to-read)
 - [더 많은 모음](#more-collections)
-
-<a id="featured"></a>
-## 추천
-
-- [Aubergine](https://github.com/thirstyeggplant/aubergine) - 브라우저의 캔버스 하나에 모든 터미널을 모아 여러 코딩 에이전트를 나란히 실행하고 어떤 에이전트가 당신을 기다리는지 확인하세요. *(이 목록의 관리자가 만들었습니다.)*
 
 <a id="take-me-somewhere-random"></a>
 ## 아무 데나 데려가 줘

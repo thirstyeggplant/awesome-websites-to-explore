@@ -2,6 +2,8 @@
 
 > Small corners of the web worth an idle afternoon: toys, games, oddities, live views of the world and things to read.
 
+**Featured:** [Aubergine](https://github.com/thirstyeggplant/aubergine) - All your terminals on one canvas in your browser, to run several coding agents side by side and see which one is waiting for you. *(Maintained by the owners of this list.)*
+
 Everything here works in an ordinary browser, needs no account to start, and costs nothing to try. Most of these sites are made by one person or a small team; if one charms you, tell them.
 
 <!-- lang-bar -->
@@ -11,8 +13,6 @@ Everything here works in an ordinary browser, needs no account to start, and cos
 <!-- /lang-bar -->
 
 ## Contents
-
-- [Featured](#featured)
 - [Take me somewhere random](#take-me-somewhere-random)
 - [Interactive toys and explainers](#interactive-toys-and-explainers)
 - [Travel from your chair](#travel-from-your-chair)
@@ -27,10 +27,6 @@ Everything here works in an ordinary browser, needs no account to start, and cos
 - [The old web](#the-old-web)
 - [Rabbit holes to read](#rabbit-holes-to-read)
 - [More collections](#more-collections)
-
-## Featured
-
-- [Aubergine](https://github.com/thirstyeggplant/aubergine) - All your terminals on one canvas in your browser, to run several coding agents side by side and see which one is waiting for you. *(Maintained by the owners of this list.)*
 
 ## Take me somewhere random
 
