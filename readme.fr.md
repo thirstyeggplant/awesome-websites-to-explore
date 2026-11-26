@@ -5,7 +5,9 @@
 Tout fonctionne dans un navigateur ordinaire, sans compte pour commencer, et ne coûte rien à essayer. La plupart de ces sites sont faits par une personne ou une petite équipe ; si l’un d’eux vous charme, dites-le-leur.
 
 <!-- lang-bar -->
-🌐 [English](readme.md) · [简体中文](readme.zh-CN.md) · [Español](readme.es.md) · [日本語](readme.ja.md) · [한국어](readme.ko.md) · [Português (BR)](readme.pt-BR.md) · **Français** · [Deutsch](readme.de.md) · [हिन्दी](readme.hi.md) · [বাংলা](readme.bn.md) · [Bahasa Indonesia](readme.id.md) · [العربية](readme.ar.md) · 🔗 [Site web](https://thirstyeggplant.github.io/awesome-websites-to-explore/fr/)
+**🔗 Site web: [https://thirstyeggplant.github.io/awesome-websites-to-explore/fr/](https://thirstyeggplant.github.io/awesome-websites-to-explore/fr/)**
+
+🌐 [English](readme.md) · [简体中文](readme.zh-CN.md) · [Español](readme.es.md) · [日本語](readme.ja.md) · [한국어](readme.ko.md) · [Português (BR)](readme.pt-BR.md) · **Français** · [Deutsch](readme.de.md) · [हिन्दी](readme.hi.md) · [বাংলা](readme.bn.md) · [Bahasa Indonesia](readme.id.md) · [العربية](readme.ar.md)
 <!-- /lang-bar -->
 
 <sub>Traduction de la version anglaise. Les noms d’outils et de sites sont laissés dans leur langue d’origine.</sub>

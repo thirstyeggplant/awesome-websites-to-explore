@@ -5,7 +5,9 @@
 यहाँ सब कुछ सामान्य ब्राउज़र में चलता है, शुरू करने के लिए खाते की ज़रूरत नहीं और आज़माना मुफ़्त है। इनमें से ज़्यादातर साइटें एक व्यक्ति या छोटी टीम ने बनाई हैं; कोई पसंद आए तो उन्हें बताइए।
 
 <!-- lang-bar -->
-🌐 [English](readme.md) · [简体中文](readme.zh-CN.md) · [Español](readme.es.md) · [日本語](readme.ja.md) · [한국어](readme.ko.md) · [Português (BR)](readme.pt-BR.md) · [Français](readme.fr.md) · [Deutsch](readme.de.md) · **हिन्दी** · [বাংলা](readme.bn.md) · [Bahasa Indonesia](readme.id.md) · [العربية](readme.ar.md) · 🔗 [वेबसाइट](https://thirstyeggplant.github.io/awesome-websites-to-explore/hi/)
+**🔗 वेबसाइट: [https://thirstyeggplant.github.io/awesome-websites-to-explore/hi/](https://thirstyeggplant.github.io/awesome-websites-to-explore/hi/)**
+
+🌐 [English](readme.md) · [简体中文](readme.zh-CN.md) · [Español](readme.es.md) · [日本語](readme.ja.md) · [한국어](readme.ko.md) · [Português (BR)](readme.pt-BR.md) · [Français](readme.fr.md) · [Deutsch](readme.de.md) · **हिन्दी** · [বাংলা](readme.bn.md) · [Bahasa Indonesia](readme.id.md) · [العربية](readme.ar.md)
 <!-- /lang-bar -->
 
 <sub>यह अंग्रेज़ी संस्करण का अनुवाद है। टूल और वेबसाइटों के नाम मूल रूप में रखे गए हैं।</sub>

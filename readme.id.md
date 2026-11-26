@@ -5,7 +5,9 @@
 Semua di sini berjalan di browser biasa, tidak perlu akun untuk mulai, dan gratis dicoba. Sebagian besar situs ini dibuat oleh satu orang atau tim kecil; kalau ada yang memikat Anda, beri tahu mereka.
 
 <!-- lang-bar -->
-🌐 [English](readme.md) · [简体中文](readme.zh-CN.md) · [Español](readme.es.md) · [日本語](readme.ja.md) · [한국어](readme.ko.md) · [Português (BR)](readme.pt-BR.md) · [Français](readme.fr.md) · [Deutsch](readme.de.md) · [हिन्दी](readme.hi.md) · [বাংলা](readme.bn.md) · **Bahasa Indonesia** · [العربية](readme.ar.md) · 🔗 [Situs web](https://thirstyeggplant.github.io/awesome-websites-to-explore/id/)
+**🔗 Situs web: [https://thirstyeggplant.github.io/awesome-websites-to-explore/id/](https://thirstyeggplant.github.io/awesome-websites-to-explore/id/)**
+
+🌐 [English](readme.md) · [简体中文](readme.zh-CN.md) · [Español](readme.es.md) · [日本語](readme.ja.md) · [한국어](readme.ko.md) · [Português (BR)](readme.pt-BR.md) · [Français](readme.fr.md) · [Deutsch](readme.de.md) · [हिन्दी](readme.hi.md) · [বাংলা](readme.bn.md) · **Bahasa Indonesia** · [العربية](readme.ar.md)
 <!-- /lang-bar -->
 
 <sub>Terjemahan dari versi bahasa Inggris. Nama alat dan situs dibiarkan seperti aslinya.</sub>

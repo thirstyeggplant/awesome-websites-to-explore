@@ -8,7 +8,9 @@
 كل ما هنا يعمل في متصفح عادي، ولا يحتاج إلى حساب للبدء، وتجربته مجانية. صنع معظم هذه المواقع شخص واحد أو فريق صغير؛ إن أعجبك أحدها فأخبرهم.
 
 <!-- lang-bar -->
-🌐 [English](readme.md) · [简体中文](readme.zh-CN.md) · [Español](readme.es.md) · [日本語](readme.ja.md) · [한국어](readme.ko.md) · [Português (BR)](readme.pt-BR.md) · [Français](readme.fr.md) · [Deutsch](readme.de.md) · [हिन्दी](readme.hi.md) · [বাংলা](readme.bn.md) · [Bahasa Indonesia](readme.id.md) · **العربية** · 🔗 [الموقع](https://thirstyeggplant.github.io/awesome-websites-to-explore/ar/)
+**🔗 الموقع: [https://thirstyeggplant.github.io/awesome-websites-to-explore/ar/](https://thirstyeggplant.github.io/awesome-websites-to-explore/ar/)**
+
+🌐 [English](readme.md) · [简体中文](readme.zh-CN.md) · [Español](readme.es.md) · [日本語](readme.ja.md) · [한국어](readme.ko.md) · [Português (BR)](readme.pt-BR.md) · [Français](readme.fr.md) · [Deutsch](readme.de.md) · [हिन्दी](readme.hi.md) · [বাংলা](readme.bn.md) · [Bahasa Indonesia](readme.id.md) · **العربية**
 <!-- /lang-bar -->
 
 <sub>هذه ترجمة للنسخة الإنجليزية. أُبقيت أسماء الأدوات والمواقع بلغتها الأصلية.</sub>

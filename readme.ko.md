@@ -5,7 +5,9 @@
 모두 일반 브라우저에서 작동하고, 계정 없이 시작할 수 있으며, 무료로 써 볼 수 있습니다. 대부분 한 사람이나 작은 팀이 만든 사이트이니, 마음에 들면 만든 사람에게 알려 주세요.
 
 <!-- lang-bar -->
-🌐 [English](readme.md) · [简体中文](readme.zh-CN.md) · [Español](readme.es.md) · [日本語](readme.ja.md) · **한국어** · [Português (BR)](readme.pt-BR.md) · [Français](readme.fr.md) · [Deutsch](readme.de.md) · [हिन्दी](readme.hi.md) · [বাংলা](readme.bn.md) · [Bahasa Indonesia](readme.id.md) · [العربية](readme.ar.md) · 🔗 [웹사이트](https://thirstyeggplant.github.io/awesome-websites-to-explore/ko/)
+**🔗 웹사이트: [https://thirstyeggplant.github.io/awesome-websites-to-explore/ko/](https://thirstyeggplant.github.io/awesome-websites-to-explore/ko/)**
+
+🌐 [English](readme.md) · [简体中文](readme.zh-CN.md) · [Español](readme.es.md) · [日本語](readme.ja.md) · **한국어** · [Português (BR)](readme.pt-BR.md) · [Français](readme.fr.md) · [Deutsch](readme.de.md) · [हिन्दी](readme.hi.md) · [বাংলা](readme.bn.md) · [Bahasa Indonesia](readme.id.md) · [العربية](readme.ar.md)
 <!-- /lang-bar -->
 
 <sub>영어판을 번역한 문서입니다. 도구와 사이트 이름은 원문 그대로 두었습니다.</sub>

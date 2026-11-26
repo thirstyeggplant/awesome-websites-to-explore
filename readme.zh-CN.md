@@ -5,7 +5,9 @@
 这里的一切都能在普通浏览器中使用，无需注册即可开始，试用不花一分钱。这些网站大多出自一个人或小团队之手；如果哪个让你着迷，不妨告诉他们。
 
 <!-- lang-bar -->
-🌐 [English](readme.md) · **简体中文** · [Español](readme.es.md) · [日本語](readme.ja.md) · [한국어](readme.ko.md) · [Português (BR)](readme.pt-BR.md) · [Français](readme.fr.md) · [Deutsch](readme.de.md) · [हिन्दी](readme.hi.md) · [বাংলা](readme.bn.md) · [Bahasa Indonesia](readme.id.md) · [العربية](readme.ar.md) · 🔗 [网站](https://thirstyeggplant.github.io/awesome-websites-to-explore/zh-CN/)
+**🔗 网站: [https://thirstyeggplant.github.io/awesome-websites-to-explore/zh-CN/](https://thirstyeggplant.github.io/awesome-websites-to-explore/zh-CN/)**
+
+🌐 [English](readme.md) · **简体中文** · [Español](readme.es.md) · [日本語](readme.ja.md) · [한국어](readme.ko.md) · [Português (BR)](readme.pt-BR.md) · [Français](readme.fr.md) · [Deutsch](readme.de.md) · [हिन्दी](readme.hi.md) · [বাংলা](readme.bn.md) · [Bahasa Indonesia](readme.id.md) · [العربية](readme.ar.md)
 <!-- /lang-bar -->
 
 <sub>本页译自英文版。工具和网站名称保留原文。</sub>

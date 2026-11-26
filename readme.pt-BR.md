@@ -5,7 +5,9 @@
 Tudo aqui funciona em um navegador comum, não exige conta para começar e não custa nada experimentar. A maioria desses sites é feita por uma pessoa ou uma equipe pequena; se algum encantar você, conte para eles.
 
 <!-- lang-bar -->
-🌐 [English](readme.md) · [简体中文](readme.zh-CN.md) · [Español](readme.es.md) · [日本語](readme.ja.md) · [한국어](readme.ko.md) · **Português (BR)** · [Français](readme.fr.md) · [Deutsch](readme.de.md) · [हिन्दी](readme.hi.md) · [বাংলা](readme.bn.md) · [Bahasa Indonesia](readme.id.md) · [العربية](readme.ar.md) · 🔗 [Site](https://thirstyeggplant.github.io/awesome-websites-to-explore/pt-BR/)
+**🔗 Site: [https://thirstyeggplant.github.io/awesome-websites-to-explore/pt-BR/](https://thirstyeggplant.github.io/awesome-websites-to-explore/pt-BR/)**
+
+🌐 [English](readme.md) · [简体中文](readme.zh-CN.md) · [Español](readme.es.md) · [日本語](readme.ja.md) · [한국어](readme.ko.md) · **Português (BR)** · [Français](readme.fr.md) · [Deutsch](readme.de.md) · [हिन्दी](readme.hi.md) · [বাংলা](readme.bn.md) · [Bahasa Indonesia](readme.id.md) · [العربية](readme.ar.md)
 <!-- /lang-bar -->
 
 <sub>Tradução da versão em inglês. Nomes de ferramentas e sites foram mantidos no original.</sub>
