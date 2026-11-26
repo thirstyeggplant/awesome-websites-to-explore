@@ -4,8 +4,13 @@
 
 Everything here works in an ordinary browser, needs no account to start, and costs nothing to try. Most of these sites are made by one person or a small team; if one charms you, tell them.
 
+<!-- lang-bar -->
+🌐 **English** · [简体中文](readme.zh-CN.md) · [Español](readme.es.md) · [日本語](readme.ja.md) · [한국어](readme.ko.md) · [Português (BR)](readme.pt-BR.md) · [Français](readme.fr.md) · [Deutsch](readme.de.md) · [हिन्दी](readme.hi.md) · [বাংলা](readme.bn.md) · [Bahasa Indonesia](readme.id.md) · [العربية](readme.ar.md) · 🔗 [Website](https://thirstyeggplant.github.io/awesome-websites-to-explore/)
+<!-- /lang-bar -->
+
 ## Contents
 
+- [Featured](#featured)
 - [Take me somewhere random](#take-me-somewhere-random)
 - [Interactive toys and explainers](#interactive-toys-and-explainers)
 - [Travel from your chair](#travel-from-your-chair)
@@ -20,6 +25,10 @@ Everything here works in an ordinary browser, needs no account to start, and cos
 - [The old web](#the-old-web)
 - [Rabbit holes to read](#rabbit-holes-to-read)
 - [More collections](#more-collections)
+
+## Featured
+
+- [Aubergine](https://github.com/thirstyeggplant/aubergine) - All your terminals on one canvas in your browser, to run several coding agents side by side and see which one is waiting for you. *(Maintained by the owners of this list.)*
 
 ## Take me somewhere random
 
