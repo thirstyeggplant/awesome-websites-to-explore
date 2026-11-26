@@ -5,7 +5,7 @@
 এখানকার সবকিছু সাধারণ ব্রাউজারে চলে, শুরু করতে অ্যাকাউন্ট লাগে না, আর চেষ্টা করতে কোনো খরচ নেই। বেশিরভাগ সাইট একজন মানুষ বা ছোট দলের তৈরি; কোনোটা ভালো লাগলে তাদের জানান।
 
 <!-- lang-bar -->
-**🔗 ওয়েবসাইট: [https://thirstyeggplant.github.io/awesome-websites-to-explore/bn/](https://thirstyeggplant.github.io/awesome-websites-to-explore/bn/)**
+🔗 **ওয়েবসাইট:** [https://thirstyeggplant.github.io/awesome-websites-to-explore/bn/](https://thirstyeggplant.github.io/awesome-websites-to-explore/bn/)
 
 🌐 [English](readme.md) · [简体中文](readme.zh-CN.md) · [Español](readme.es.md) · [日本語](readme.ja.md) · [한국어](readme.ko.md) · [Português (BR)](readme.pt-BR.md) · [Français](readme.fr.md) · [Deutsch](readme.de.md) · [हिन्दी](readme.hi.md) · **বাংলা** · [Bahasa Indonesia](readme.id.md) · [العربية](readme.ar.md)
 <!-- /lang-bar -->

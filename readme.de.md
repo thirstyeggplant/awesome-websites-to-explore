@@ -5,7 +5,7 @@
 Alles hier läuft in einem normalen Browser, braucht zum Start kein Konto und kostet nichts. Die meisten Seiten stammen von einer Person oder einem kleinen Team; wenn dich eine begeistert, sag es ihnen.
 
 <!-- lang-bar -->
-**🔗 Website: [https://thirstyeggplant.github.io/awesome-websites-to-explore/de/](https://thirstyeggplant.github.io/awesome-websites-to-explore/de/)**
+🔗 **Website:** [https://thirstyeggplant.github.io/awesome-websites-to-explore/de/](https://thirstyeggplant.github.io/awesome-websites-to-explore/de/)
 
 🌐 [English](readme.md) · [简体中文](readme.zh-CN.md) · [Español](readme.es.md) · [日本語](readme.ja.md) · [한국어](readme.ko.md) · [Português (BR)](readme.pt-BR.md) · [Français](readme.fr.md) · **Deutsch** · [हिन्दी](readme.hi.md) · [বাংলা](readme.bn.md) · [Bahasa Indonesia](readme.id.md) · [العربية](readme.ar.md)
 <!-- /lang-bar -->

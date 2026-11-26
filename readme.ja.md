@@ -5,7 +5,7 @@
 どれも普通のブラウザで動き、アカウントなしで始められ、無料で試せます。ほとんどは個人や小さなチームが作ったサイトです。気に入ったら作者に伝えてあげてください。
 
 <!-- lang-bar -->
-**🔗 ウェブサイト: [https://thirstyeggplant.github.io/awesome-websites-to-explore/ja/](https://thirstyeggplant.github.io/awesome-websites-to-explore/ja/)**
+🔗 **ウェブサイト:** [https://thirstyeggplant.github.io/awesome-websites-to-explore/ja/](https://thirstyeggplant.github.io/awesome-websites-to-explore/ja/)
 
 🌐 [English](readme.md) · [简体中文](readme.zh-CN.md) · [Español](readme.es.md) · **日本語** · [한국어](readme.ko.md) · [Português (BR)](readme.pt-BR.md) · [Français](readme.fr.md) · [Deutsch](readme.de.md) · [हिन्दी](readme.hi.md) · [বাংলা](readme.bn.md) · [Bahasa Indonesia](readme.id.md) · [العربية](readme.ar.md)
 <!-- /lang-bar -->
